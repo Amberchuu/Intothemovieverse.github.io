@@ -1,0 +1,173 @@
+@charset "UTF-8";
+/* CSS Document */
+.Navigation {
+	background-color: #780098;
+	padding: 10px;
+
+	
+}
+.navbarlinks {
+	color: #ffcb00;
+	text-align: center;
+	font-family: Impact;
+	padding: 0 10px 20px 10px;
+	text-decoration: none;
+	font-size: 140%;
+	
+}
+
+.textlogo {
+	height: 22%;
+	width: 22%;
+	
+}
+
+.socials {
+	height: 30px;
+	weight: 30px;
+	padding: 0 10px 0 2px;
+	position: relative;
+	left: 30px;
+}
+p {
+	display: inline;
+}
+a {
+	text-decoration: none;
+	outline: none;
+}
+
+body {
+	background-image: url("Website Stuff/IMG_0554 copy.PNG");
+	background-size: cover;
+	background-attachment: fixed;;
+}
+.releases {
+	color: #FFCB00;
+	font-family: Impact;
+	background-color: #780098;
+	border-radius: 20px;
+	text-align: center;
+	padding: 10px 70px 10px 70px;
+	margin: 0 1300px 10px 0;
+	position: relative;
+	top: 30px;
+	left: 50px;
+	z-index: 1;
+	
+}
+.newreleases {
+	background-color: #780098;
+	margin: 0 1300px 10px 0;
+	position: relative;
+	top: 50px;
+	left: 52px;
+	
+	
+}
+.newtitles {
+	color: #FFCB00;
+	font-family: Impact;
+	text-align: center;
+	position: static;
+	left: 165px;
+	z-index: 2;
+	
+}
+.releasedates {
+	color: #8CD77B;
+	font-family: Impact;
+	text-align: center;
+	z-index: 2;
+}
+hr { border: #FFCB00; width: 30%; height: 3px; background-color: #FFCB00}
+
+.pic1 {
+	height: 120px;
+	width: 120px;
+	float: left;
+	position: static;
+	left: 30px;
+	padding: 10px 0px 10px 30px;
+	
+}
+.latestheader {
+	font-size: 360%;
+	font-family: Impact;
+	color: #60a559;
+	position: relative;
+	bottom: 864px;
+	left: 480px;
+	background-color: #8CD77B;
+	width: 672px;
+	padding: 0 10px 0 15px;
+	border-radius: 20px;
+	border: solid 5px #60a559;
+}
+#wrapper {
+    margin-left:auto;
+    margin-right:auto;
+    width: 1680px;
+}
+.top5 {
+	color: #780098;
+	font-family: Impact;
+	background-color: #ffcb00;
+	border-radius: 20px;
+	text-align: center;
+	padding: 10px 70px 10px 70px;
+	margin: 0 1300px 10px 0;
+	position: relative;
+	bottom: 3195px;
+	left: 1240px;
+	z-index: 4;
+	width: 250px;
+}
+.topfivebox {
+	background-color: #ffcb00;
+	margin: 0 1300px 10px 0;
+	position: relative;
+	bottom: 3195px;
+	left: 1245px;	
+	padding: 0 0 20px 0;
+}
+.filmtitles {
+	color: #780098;
+	font-family: Impact;
+	text-align: center;
+	position: static;
+	left: 165px;
+	z-index: 2;
+	
+}
+.comments {
+	color: #952d79;
+	font-family: Impact;
+	text-align: center;
+	z-index: 2;
+}
+hr { border: #FFCB00; width: 30%; height: 3px; background-color: #FFCB00}
+
+.pic2 {
+	height: 120px;
+	width: 120px;
+	float: left;
+	position: static;
+	left: 30px;
+	padding: 10px 0px 10px 30px;
+}
+.latestreviewsbox {
+	background-color: #8cd77b;
+	margin: 0 1300px 10px 0;
+	position: relative;
+	bottom: 925px;
+	left: 480px;
+	width: 700px;
+}
+.pic3 {
+	width:80%;
+	height: 85%;
+	border: solid 8px #60a559;
+	position: relative;
+	left: 60px;
+}
